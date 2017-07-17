@@ -1,0 +1,2 @@
+# PythonKakfaSample
+Python Kafka pykafka
